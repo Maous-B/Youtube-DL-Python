@@ -9,4 +9,4 @@ Youtube-DL-Python is a program written in Python that downloads YouTube videos b
 
 # Documentation
 
-The documentation is here ! 
+Documentation is [here](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#embedding-youtube-dl) ! 
